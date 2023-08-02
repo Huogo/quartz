@@ -1,4 +1,5 @@
 ---
+title: Page Link
 ---
 
 # Here's a Hello World Link
