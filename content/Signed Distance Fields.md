@@ -1,8 +1,9 @@
 ---
 title: Hello World
+enableFooter: true
 ---
 
-# Hello World
+# Signed Distance Fields
 
 This is a test [Here's a Hello World Link](Here's%20a%20Hello%20World%20Link.md)
 
